@@ -1,0 +1,39 @@
+------------------------------
+Date: 2025-06-06 21:35:27
+User: madely
+Items Purchased:
+- Sanum (Yogurt + Fruits + Crunch) x2 @ ₱249.0
+Total Amount: ₱498.0
+------------------------------
+
+Date/Time: 2025-06-06 21:44:36
+User: made
+Items:
+Sanum (Yogurt + Fruits + Crunch) x2 @ ₱249.0 - ₱498.00
+Sanum (Yogurt + Fruits + Crunch) x3 @ ₱249.0 - ₱747.00
+Total: ₱1245.00
+--------------------------
+Date/Time: 2025-06-06 21:49:46
+User: madeline
+Items:
+Total: ₱0.00
+--------------------------
+Date/Time: 2025-06-06 21:54:02
+User: mady
+Items:
+Tub (Medium Yogurt) x1 @ ₱199.0 - ₱199.00
+Sanum (Yogurt + Fruits + Crunch) x2 @ ₱249.0 - ₱498.00
+Total: ₱697.00
+--------------------------
+Date/Time: 2025-06-06 21:54:16
+User: mady
+Items:
+Total: ₱0.00
+--------------------------
+Date/Time: 2025-06-06 21:57:15
+User: madeline
+Items:
+Tub (Medium Yogurt) x3 @ ₱199.0 - ₱597.00
+Tub (Medium Yogurt) x4 @ ₱199.0 - ₱796.00
+Total: ₱1393.00
+--------------------------
